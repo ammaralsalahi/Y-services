@@ -1,0 +1,7 @@
+{
+  "name": "Yemen Services - خدمات اليمن",
+  "description": "A comprehensive platform connecting people with local services in Yemen, including plumbing, electricity, cleaning, and more.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
